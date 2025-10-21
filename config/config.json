@@ -1,0 +1,5 @@
+{
+  "defaultInterval": 60,
+  "logFilePath": "logs/fqdn_blocker.log",
+  "auditStorePath": "data/audit_store.json"
+}
